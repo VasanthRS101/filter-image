@@ -53,7 +53,7 @@ nav .items .item:hover {
 .gallery .image {
     width: calc(100% / 4);
     padding: 7px;
-    
+    cursor: pointer;
 }
 
 .gallery .image.hide {
